@@ -17,7 +17,7 @@ else
   exit 1
 fi
 
-source /opt/conda/etc/profile.d/conda.sh
+source /Users/faisal/opt/anaconda3/etc/profile.d/conda.sh
 source activate_main.sh
 
 echo "Running $PIPELINE baseline..."
